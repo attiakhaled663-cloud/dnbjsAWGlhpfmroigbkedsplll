@@ -6,3 +6,5 @@ lwb90
 baghdad90
 xtet0
 soul_stg
+ebosh_gaming
+sayMAHA
